@@ -3,17 +3,20 @@
  * @return {number}
  */
 
-const inp = 2;
+// const inp = 2;
 // const inp = 3;
+const inp = 9;
 
 var climbStairs = function (n) {
   let array = [];
   //   //todo
-  //   for (let i = n; i >= 0; i--) {
-  //     for (let j = n; j >= 0; j--) {
+  let i = n;
+  // while (i > 0) {
+  //   while (n % i) {
 
-  //     }
   //   }
+  //   i--;
+  // }
 
   return n;
 };
